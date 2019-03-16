@@ -1,3 +1,10 @@
+/*
+
+DIRTYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY 
+JUST FOR TESTING PURPOSES
+
+*/
+
 #include "Graph.h"
 #include "GUI.h"
 #include "Renderer.h"
